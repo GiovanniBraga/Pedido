@@ -1,0 +1,17 @@
+*{
+  background-color: rgb(252, 189, 252);
+}
+
+img {
+  width: 60%;
+  display: block;
+  margin: 0 auto;
+}
+
+footer{
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+  }
